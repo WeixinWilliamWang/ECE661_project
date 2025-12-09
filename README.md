@@ -23,6 +23,6 @@ The code includes setups for evaluating these methods against baselines (such as
 3.  **Real-World Application:** A high-dimensional task constructed from the **MovieLens-25M** dataset, using SVD embeddings for users and movies.
 
 ## References
-This project builds upon a manuscript currently under review at ICLR and extends it with refined algorithm designs and real-world experiments.
+This project builds upon a manuscript currently under review at ICLR and extends it with refined algorithm designs, real-world experiments, ablation study and wall-clock time evaluation.
 
 For full algorithmic details, please refer to the project report included in this repository.
