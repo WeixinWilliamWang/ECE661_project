@@ -1,4 +1,4 @@
-# EDeep Generative Priors for Efficient Exploration in Neural Contextual Bandits
+# Deep Generative Priors for Efficient Exploration in Neural Contextual Bandits
 2025Fall Duke ECE661 course project
 
 **Course:** ECE 661 - Fall 2025
